@@ -1,11 +1,4 @@
-<div class="entry-content"><p>作者：<a href="http://lucida.me/">Lucida</a></p>
-
-<ul>
-<li>微博：<a href="http://www.weibo.com/pegong/">@peng_gong</a></li>
-<li>豆瓣：<a href="http://www.douban.com/people/figure9/">@figure9</a></li>
-</ul>
-
-
+#程序员必读书单
 <p>原文链接：<a href="http://lucida.me/blog/developer-reading-list/">http://lucida.me/blog/developer-reading-list/</a></p>
 
 <h2>关于</h2>
